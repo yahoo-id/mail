@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://yahoo-id.github.io/mail/sitemap.xml
